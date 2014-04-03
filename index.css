@@ -1,0 +1,17 @@
+body
+{
+	color: red;
+	height: 4000px;
+}
+
+.generic
+{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
+
+#two
+{
+	position: absolute;
+}
